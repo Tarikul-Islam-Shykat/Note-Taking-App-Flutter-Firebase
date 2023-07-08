@@ -10,3 +10,4 @@ Note taking app using Firebase and language Flutter
 5. Getx
 6. Flutter UI
 7. Lottie Animation
+8. Responsive UI
