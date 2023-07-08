@@ -1,4 +1,5 @@
 # note_app_flutter_firebase
+### This is my first flutter app
 
 Note taking app using Firebase and language Flutter
 
