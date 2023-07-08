@@ -13,9 +13,8 @@ Note taking app using Firebase and language Flutter
 7. Lottie Animation
 8. Responsive UI
 
-<img src="https://user-images.githubusercontent.com/77191261/252006111-4f12d818-12b1-47aa-8942-59b60839126d.gif" width="200" height = "200">
+<img src="https://user-images.githubusercontent.com/77191261/252006111-4f12d818-12b1-47aa-8942-59b60839126d.gif" width="200" height = "500">
 
- https://user-images.githubusercontent.com/77191261/252006111-4f12d818-12b1-47aa-8942-59b60839126d.gif
 
 ![1688828932128](https://github.com/Tarikul-Islam-Shykat/Note-Taking-App-Flutter-Firebase/assets/77191261/4f12d818-12b1-47aa-8942-59b60839126d)
 
